@@ -1,0 +1,21 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore IDE/project files
+.idea/
+*.iml
+*.swp
+*.swo
+.vscode/
+
+# Ignore backup files
+*~
+
+# Ignore board solution outputs
+*.out
